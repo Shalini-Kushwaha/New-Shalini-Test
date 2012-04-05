@@ -1,4 +1,4 @@
-//--- window
+//--- window------------
 var win = Ti.UI.createWindow({
 	backgroundColor : 'white'
 });
