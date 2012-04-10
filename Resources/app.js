@@ -1,4 +1,5 @@
-//-comment added by shalini
+
+// comment added from GUI
 var win = Ti.UI.createWindow({
 	backgroundColor : 'white'
 });
