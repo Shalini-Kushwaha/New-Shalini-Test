@@ -1,4 +1,5 @@
 //create win object
+// test
 var win = Ti.UI.createWindow({
 	backgroundColor : 'white'
 });
